@@ -1,3 +1,4 @@
+
 html{
     /* This image will be displayed fullscreen */
     background:url(/images/Autumn_weather.jpg) no-repeat center center;
@@ -7,7 +8,6 @@ html{
 
     /* The Magic */
     background-size:cover;
-
 }
 
 table{
@@ -20,5 +20,4 @@ div{
   height: 100%;
   width: 50%;
   background-color: white;
-  border-radius: 5%;
 }
