@@ -1,0 +1,24 @@
+html{
+    /* This image will be displayed fullscreen */
+    background:url(/images/Autumn_weather.jpg) no-repeat center center;
+
+    /* Ensure the html element always takes up the full height of the browser window */
+    min-height:100%;
+
+    /* The Magic */
+    background-size:cover;
+
+}
+
+table{
+  margin: auto;
+  padding-top: 5%;
+}
+
+div{
+  margin: auto;
+  height: 100%;
+  width: 50%;
+  background-color: white;
+  border-radius: 5%;
+}
